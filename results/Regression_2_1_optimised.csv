@@ -1,0 +1,2 @@
+task,selected_model,training_rows,testing_rows,last_training_date,first_testing_date,test_MAE,test_RMSE,test_R2
+Regression 2.1,Lasso alpha=0.5,82,22,2026-07-01,2026-07-02,1.4627167727226367,1.7758807336975138,-0.17688215271697882

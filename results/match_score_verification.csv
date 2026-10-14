@@ -1,0 +1,105 @@
+match_id,home_team,away_team,csv_home_score,csv_away_score,pdf_home_score,pdf_away_score,status,details,source_url
+2026-M001-MEX-RSA,Mexico,South Africa,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M01%20MEX%20V%20RSA.pdf
+2026-M002-KOR-CZE,Korea Republic,Czechia,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M02%20KOR%20V%20CZE%20.pdf
+2026-M003-CAN-BIH,Canada,Bosnia and Herzegovina,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M03-CAN-V-BIH-V2.pdf
+2026-M004-USA-PAR,USA,Paraguay,4,1,4.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M04-USA-V-PAR.pdf
+2026-M005-HAI-SCO,Haiti,Scotland,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M05-HAI-V-SCO.pdf
+2026-M006-AUS-TUR,Australia,Türkiye,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M06-AUS-V-TUR.pdf
+2026-M007-BRA-MAR,Brazil,Morocco,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M07-BRA-V-MAR%20POST-V2.pdf
+2026-M008-QAT-SUI,Qatar,Switzerland,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M08-QAT-V-SUI.pdf
+2026-M009-CIV-ECU,Côte d'Ivoire,Ecuador,1,0,1.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M09-CIV-V-ECU.pdf
+2026-M010-GER-CUW,Germany,Curaçao,7,1,7.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M10-GER-V-CUW-V2.pdf
+2026-M011-NED-JPN,Netherlands,Japan,2,2,2.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M11-NED-V-JPN.pdf
+2026-M012-SWE-TUN,Sweden,Tunisia,5,1,5.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M12-SWE-V-TUN.pdf
+2026-M013-KSA-URU,Saudi Arabia,Uruguay,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M13-KSA-V-URU.pdf
+2026-M014-ESP-CPV,Spain,Cabo Verde,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M14-ESP-V-CPV.pdf
+2026-M015-IRN-NZL,IR Iran,New Zealand,2,2,2.0,2.0,MATCH,Verified against FIFA PDF on retry,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M15-IRN-V-NZL.pdf
+2026-M016-BEL-EGY,Belgium,Egypt,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M16-BEL-V-EGY.pdf
+2026-M017-FRA-SEN,France,Senegal,3,1,3.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M17-FRA-V-SEN.pdf
+2026-M018-IRQ-NOR,Iraq,Norway,1,4,1.0,4.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M18-IRQ-V-NOR.pdf
+2026-M019-ARG-ALG,Argentina,Algeria,3,0,3.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M19-ARG-V-ALG.pdf
+2026-M020-AUT-JOR,Austria,Jordan,3,1,3.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M20-AUT-V-JOR-V2.pdf
+2026-M021-GHA-PAN,Ghana,Panama,1,0,1.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M21-GHA-V-PAN-V2.pdf
+2026-M022-ENG-CRO,England,Croatia,4,2,4.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M22-ENG-V-CRO.pdf
+2026-M023-POR-COD,Portugal,Congo DR,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M23-POR-V-COD.pdf
+2026-M024-UZB-COL,Uzbekistan,Colombia,1,3,1.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M24-UZB-V-COL-V2.pdf
+2026-M025-CZE-RSA,Czechia,South Africa,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M25-CZE-V-RSA.pdf
+2026-M026-SUI-BIH,Switzerland,Bosnia and Herzegovina,4,1,4.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M26-SUI-V-BIH.pdf
+2026-M027-CAN-QAT,Canada,Qatar,6,0,6.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M27-CAN-V-QAT.pdf
+2026-M028-MEX-KOR,Mexico,Korea Republic,1,0,1.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M28-MEX-V-KOR.pdf
+2026-M029-BRA-HAI,Brazil,Haiti,3,0,3.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M29-BRA-V-HAI.pdf
+2026-M030-SCO-MAR,Scotland,Morocco,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M30-SCO-V-MAR.pdf
+2026-M031-TUR-PAR,Türkiye,Paraguay,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M31-TUR-V-PAR.pdf
+2026-M032-USA-AUS,USA,Australia,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M32-USA-V-AUS.pdf
+2026-M033-GER-CIV,Germany,Côte d'Ivoire,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M33-GER-V-CIV.pdf
+2026-M034-ECU-CUW,Ecuador,Curaçao,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M34-ECU-V-CUW.pdf
+2026-M035-NED-SWE,Netherlands,Sweden,5,1,5.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M35-NED-V-SWE.pdf
+2026-M036-TUN-JPN,Tunisia,Japan,0,4,0.0,4.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M36-TUN-V-JPN.pdf
+2026-M037-URU-CPV,Uruguay,Cabo Verde,2,2,2.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M37-URU-V-CPV.pdf
+2026-M038-ESP-KSA,Spain,Saudi Arabia,4,0,4.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M38-ESP-V-KSA.pdf
+2026-M039-BEL-IRN,Belgium,IR Iran,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M39-BEL-V-IRN.pdf
+2026-M040-NZL-EGY,New Zealand,Egypt,1,3,1.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M40-NZL-V-EGY.pdf
+2026-M041-NOR-SEN,Norway,Senegal,3,2,3.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M41-NOR-V-SEN.pdf
+2026-M042-FRA-IRQ,France,Iraq,3,0,3.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M42-FRA-V-IRQ.pdf
+2026-M043-ARG-AUT,Argentina,Austria,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M43-ARG-V-AUT.pdf
+2026-M044-JOR-ALG,Jordan,Algeria,1,2,1.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M44-JOR-V-ALG.pdf
+2026-M045-ENG-GHA,England,Ghana,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M45-ENG-V-GHA.pdf
+2026-M046-PAN-CRO,Panama,Croatia,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M46-PAN-V-CRO.pdf
+2026-M047-POR-GHA,Portugal,Uzbekistan,5,0,5.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M47-POR-V-GHA.pdf
+2026-M048-COL-COD,Colombia,Congo DR,1,0,1.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M48-COL-V-COD.pdf
+2026-M049-SCO-BRA,Scotland,Brazil,0,3,0.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M49-SCO-V-BRA.pdf
+2026-M050-MAR-HAI,Morocco,Haiti,4,2,4.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M50-MAR-V-HAI.pdf
+2026-M051-SUI-CAN,Switzerland,Canada,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M51-SUI-V-CAN.pdf
+2026-M052-BIH-QAT,Bosnia and Herzegovina,Qatar,3,1,3.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M52-BIH-V-QAT.pdf
+2026-M053-CZE-MEX,Czechia,Mexico,0,3,0.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M53-CZE-V-MEX.pdf
+2026-M054-RSA-KOR,South Africa,Korea Republic,1,0,1.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M54-RSA-V-KOR.pdf
+2026-M055-CUW-CIV,Curaçao,Côte d'Ivoire,0,2,0.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M55-CUW-V-CIV.pdf
+2026-M056-ECU-GER,Ecuador,Germany,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M56-ECU-V-GER.pdf
+2026-M057-JPN-SWE,Japan,Sweden,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M57-JPN-V-SWE.pdf
+2026-M058-TUN-NED,Tunisia,Netherlands,1,3,1.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M58-TUN-V-NED.pdf
+2026-M059-TUR-USA,Türkiye,USA,3,2,3.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M59-TUR-v-USA.pdf
+2026-M060-PAR-AUS,Paraguay,Australia,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M60-PAR-V-AUS.pdf
+2026-M061-NOR-FRA,Norway,France,1,4,1.0,4.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M61-NOR-V-FRA.pdf
+2026-M062-SEN-IRQ,Senegal,Iraq,5,0,5.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M62-SEN-V-IRQ.pdf
+2026-M063-EGY-IRN,Egypt,IR Iran,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M63-EGY-V-IRN.pdf
+2026-M064-NZL-BEL,New Zealand,Belgium,1,5,1.0,5.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M64-NZL-V-BEL.pdf
+2026-M065-CPV-KSA,Cabo Verde,Saudi Arabia,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M65-CPV-V-KSA.pdf
+2026-M066-URU-ESP,Uruguay,Spain,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M66-URU-V-ESP.pdf
+2026-M067-PAN-ENG,Panama,England,0,2,0.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M67-PAN-V-ENG.pdf
+2026-M068-CRO-GHA,Croatia,Ghana,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M68-CRO-V-GHA.pdf
+2026-M069-ALG-AUT,Algeria,Austria,3,3,3.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M69-ALG-V-AUT.pdf
+2026-M070-JOR-ARG,Jordan,Argentina,1,3,1.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M70-JOR-V-ARG.pdf
+2026-M071-COL-POR,Colombia,Portugal,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M71-COL-V-POR.pdf
+2026-M072-COD-UZB,Congo DR,Uzbekistan,3,1,3.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M72-COD-V-UZB.pdf
+2026-M073-RSA-CAN,South Africa,Canada,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M73-RSA-V-CAN.pdf
+2026-M074-GER-PAR,Germany,Paraguay,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M74-GER-V-PAR.pdf
+2026-M075-NED-MAR,Netherlands,Morocco,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M75-NED-V-MAR.pdf
+2026-M076-BRA-JPN,Brazil,Japan,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M76-BRA-V-JPN.pdf
+2026-M077-FRA-SWE,France,Sweden,3,0,3.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M77-FRA-V-SWE.pdf
+2026-M078-CIV-NOR,Côte d'Ivoire,Norway,1,2,1.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M78-CIV-V-NOR.pdf
+2026-M079-MEX-ECU,Mexico,Ecuador,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M79-MEX-V-ECU.pdf
+2026-M080-ENG-COD,England,Congo DR,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M80-ENG-V-COD.pdf
+2026-M081-USA-BIH,USA,Bosnia and Herzegovina,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M81-USA-V-BIH.pdf
+2026-M082-BEL-SEN,Belgium,Senegal,3,2,3.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M82-BEL-V-SEN.pdf
+2026-M083-POR-CRO,Portugal,Croatia,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M83-POR-V-CRO.pdf
+2026-M084-ESP-AUT,Spain,Austria,3,0,3.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M84-ESP-V-AUT.pdf
+2026-M085-SUI-ALG,Switzerland,Algeria,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M85-SUI-V-ALG.pdf
+2026-M086-ARG-CPV,Argentina,Cabo Verde,3,2,3.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M86-ARG-V-CPV.pdf
+2026-M087-COL-GHA,Colombia,Ghana,1,0,1.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M87-COL-V-GHA.pdf
+2026-M088-AUS-EGY,Australia,Egypt,1,1,1.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M88-AUS-V-EGY-V2.pdf
+2026-M089-PAR-FRA,Paraguay,France,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M89-PAR-V-FRA.pdf
+2026-M090-CAN-MAR,Canada,Morocco,0,3,0.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M90-CAN-V-MAR.pdf
+2026-M091-BRA-NOR,Brazil,Norway,1,2,1.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M91-BRA-V-NOR.pdf
+2026-M092-MEX-ENG,Mexico,England,2,3,2.0,3.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M92-MEX-V-ENG.pdf
+2026-M093-POR-ESP,Portugal,Spain,0,1,0.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M93-POR-V-ESP.pdf
+2026-M094-USA-BEL,USA,Belgium,1,4,1.0,4.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M94-USA-V-BEL.pdf
+2026-M095-ARG-EGY,Argentina,Egypt,3,2,3.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M95-ARG-V-EGY.pdf
+2026-M096-SUI-COL,Switzerland,Colombia,0,0,0.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M96-SUI-V-COL.pdf
+2026-M097-FRA-MAR,France,Morocco,2,0,2.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M97-FRA-V-MAR.pdf
+2026-M098-ESP-BEL,Spain,Belgium,2,1,2.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M98-ESP-V-BEL-ALT.pdf
+2026-M099-NOR-ENG,Norway,England,1,2,1.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M99-NOR-V-ENG.pdf
+2026-M100-ARG-SUI,Argentina,Switzerland,3,1,3.0,1.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M100-ARG-V-SUI.pdf
+2026-M101-FRA-ESP,France,Spain,0,2,0.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M101-FRA-V-ESP.pdf
+2026-M102-ENG-ARG,England,Argentina,1,2,1.0,2.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M102-ENG-V-ARG.pdf
+2026-M103-FRA-ENG,France,England,4,6,4.0,6.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M103-FRA-V-ENG.pdf
+2026-M104-ESP-ARG,Spain,Argentina,1,0,1.0,0.0,MATCH,PDF score agrees with CSV,https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M104-ESP-V-ARG.pdf

@@ -1,0 +1,2 @@
+task,selected_model,training_rows,testing_rows,last_training_date,first_testing_date,test_MAE,test_RMSE,test_R2
+Regression 2.2,Ridge alpha=100.0,164,44,2026-07-01,2026-07-02,0.9913800472618334,1.2979287971595042,0.0370762625945984
